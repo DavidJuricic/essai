@@ -1,0 +1,19 @@
+
+
+
+.card-list {
+
+}
+.card-list .card {
+  background-color: rgb(230, 230, 230);
+  margin-bottom:2rem;
+}
+
+.card-body {
+}
+.card-body .card-text {
+  flex-grow: 1; /* Le texte prend un maximum de hauteur afin de pousser le bouton vers le bas */
+}
+img{
+  width:100%;
+}
